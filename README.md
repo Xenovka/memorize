@@ -1,2 +1,1 @@
-# memorize
-Memorize game
+# Hi, There. Welcome to my repo (:
